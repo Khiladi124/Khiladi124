@@ -52,7 +52,7 @@
 - 🧠 Solved 800+ DSA problems  
 - 🚀 Flipkart Grid 6.0 Level 2 Qualifier  
 - 👨‍🏫 Taught 300+ students DSA/CP  
-- 🌐 Incoming Software Developer Intern @AlgoUniversity (Y-Combinator funded startup)
+- 🌐 Software Developer Intern @AlgoUniversity (Y-Combinator funded startup)
 
 ---
 
